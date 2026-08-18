@@ -1,0 +1,18 @@
+[
+  {
+    "value": "flyers-pamphlets",
+    "text": "Flyers or pamphlets for a shop"
+  },
+  {
+    "value": "begreen-review",
+    "text": "BeGreen review task (checking submissions or certificates)"
+  },
+  {
+    "value": "peer-training",
+    "text": "Peer training or skills session"
+  },
+  {
+    "value": "kyc-support",
+    "text": "Helping someone complete their KYC on Jambo"
+  }
+]
